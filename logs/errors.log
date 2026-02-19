@@ -1,0 +1,19 @@
+2026-02-19 14:53:59,661 ERROR db_error: connection to server at "db" (172.19.0.2), port 5433 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2026-02-19 14:59:00,488 ERROR db_error: connection to server at "db" (172.19.0.2), port 5433 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2026-02-19 15:39:58,560 ERROR db_error: connection to server at "db" (172.19.0.2), port 5433 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2026-02-19 15:45:52,622 ERROR db_error: connection to server at "db" (172.19.0.2), port 5433 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2026-02-19 15:46:53,485 ERROR db_error: connection to server at "db" (172.19.0.2), port 5433 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2026-02-19 15:47:54,517 ERROR db_error: connection to server at "db" (172.19.0.2), port 5433 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2026-02-19 16:10:55,618 ERROR api_error: endpoint=https://api.open-meteo.com/v1/forecast status=None duration_ms=10837 error=timeout: HTTPSConnectionPool(host='api.open-meteo.com', port=443): Read timed out. (read timeout=10)
